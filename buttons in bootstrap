@@ -1,0 +1,24 @@
+<head>
+	<title>Document</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width",initial_scale=1.0>
+	<link rel="stylesheet" type="text/css" href="bootstrap.min.css">
+	
+
+</head>
+<body>
+	<div>
+		<button type="button" class="btn btn-primary">Primary</button><br>
+		<button type="button" class="btn btn-secondary">Secondary</button><br>
+		<button type="button" class="btn btn-success">Success</button><br>
+		<button type="button" class="btn btn-danger">Danger</button><br>
+		<button type="button" class="btn btn-warning">Warning</button><br>
+		<button type="button" class="btn btn-info">Info</button><br>
+		<button type="button" class="btn btn-secondary">Light</button><br>
+		<button type="button" class="btn btn-dark">Dark</button><br>
+		<button type="button" class="btn btn-link" >Link</button><br>
+
+		<a href=" " type="button" class=" btn btn-link">Link name</a>
+	</div>
+
+</body>

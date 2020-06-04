@@ -1,0 +1,33 @@
+<head>
+	<title>Document</title>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width",initial_scale=1.0>
+	<link rel="stylesheet" type="text/css" href="bootstrap.min.css">
+	<style type="text/css">
+		.row{
+			text-align: center;
+		}
+	</style>
+
+</head>
+<body>
+	<div class="row" style="background-color: green;font-size: 15px;font-color:white;">
+		<div class="col-xl-12">Heading</div>
+	</div>
+	<div class="row">
+		<div class="col-lg-6" style="background-color: yellow;">Yellow</div>
+		<div class="col-lg-6" style="background-color: Red;">Red</div>
+	</div>
+	<div class="row">
+		<div class="col-lg-6" style="background-color: orange;">Orange</div>
+		<div class="col-lg-6" style="background-color:blue;">Blue</div>	
+	</div>
+	<div class="row">
+		<div class="col-lg-8" style="background-color: pink;">Pink</div>
+		<div class="col-lg-4" style="background-color:brown;">Brown</div>	
+	</div>
+	<div class="row" style="background-color: green;font-size: 15px;font-color:white;">
+		<div class="col-xl-12">Green</div>
+	</div>
+
+</body>
